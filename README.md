@@ -9,7 +9,7 @@
   <img width="20" />
   <a href="https://www.instagram.com/yyahiamo/"><img src="https://img.icons8.com/fluency/48/instagram-new.png" height="42" alt="Instagram"/></a>
   <img width="20" />
-  <a href="mailto:[yahimoh@icloud.com]"><img src="https://img.icons8.com/fluency/48/mail.png" height="42" alt="Email"/></a>
+  <a href="mailto:yahimoh@icloud.com"><img src="https://img.icons8.com/fluency/48/mail.png" height="42" alt="Email"/></a>
 
   <br><br>
 </div>
