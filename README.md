@@ -16,12 +16,12 @@
 
 <hr style="border: none; background-color: #e0e0e0; height: 1px;">
 
-### 🎯 What I Focus On
+### What I Focus On
 
 <table border="0" style="border-collapse: collapse; border: none;">
   <tr>
     <td width="60%" valign="center" style="border: none; padding-right: 20px;">
-      <h3>✨ Polished Interfaces</h3>
+      <h3>Polished Interfaces</h3>
       <p>I specialize in <b>Swift</b> and <b>SwiftUI</b>. I pay close attention to how things look and feel, like when implementing Apple's Liquid Glass designs, and ensuring the UI/UX is intuitive, smooth, and highly accessible.</p>
     </td>
     <td width="40%" align="center" style="border: none;">
@@ -33,7 +33,7 @@
       <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="API Integration GIF" width="100%" style="border-radius: 12px;"/>
     </td>
     <td width="60%" valign="center" style="border: none; padding-left: 20px;">
-      <h3>🧩 The Bigger Picture</h3>
+      <h3>The Bigger Picture</h3>
       <p>A beautiful interface needs a reliable foundation. I enjoy zooming out to see how entire systems connect. From integrating enterprise platforms like Braze to exploring Apple's native Screen Time API to build tools for focus and habit exchange, I care deeply about how different SDKs and frameworks come together to create a seamless user experience.</p>
     </td>
   </tr>
@@ -41,7 +41,7 @@
 
 <br>
 
-### 🚀 Where I've Been
+### Where I've Been
 
 <details>
   <summary>📱 <b>Sanoma</b> ｜ Junior iOS Developer <i></i></summary>
@@ -55,7 +55,7 @@
 </details>
 
 <details>
-  <summary>🛒 <b>Wolt Market</b> ｜ Tech Ops & Grocery Associate <i></i></summary>
+  <summary> <b>Wolt Market</b> ｜ Tech Ops & Grocery Associate <i></i></summary>
   <br>
   <p>Bridged the gap between store operations and the engineering team.</p>
   <ul>
@@ -65,7 +65,7 @@
 
 <br>
 
-### 🎒 My Backpack
+### My Backpack
 
 **Languages:** Swift, Python, JS, HTML, Objective-C (Reading) <br>
 **Frameworks:** SwiftUI, UIKit, AVFoundation, WidgetKit <br>
