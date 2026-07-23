@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Heya! You found me, i'm Mohamad Yahia 👋</h1>
-  <p><b>iOS Developer ✦ Design-Minded ✦ Hardware Tinkerer</b></p>
+  <p><b>iOS Developer ✦ Design-minded ✦ Hardware tinkerer</b></p>
   <p>Based in 🇫🇮, Helsinki!</p>
   
   <br>
@@ -67,7 +67,7 @@
 
 ### My Backpack
 
-**Languages:** Swift, Python, JS, HTML, Objective-C (Reading) <br>
+**Languages:** Swift, Objective-C, Python, JS, HTML<br>
 **Frameworks:** SwiftUI, UIKit, AVFoundation, WidgetKit <br>
 **Patterns:** MVVM, The Composable Architecture (TCA), Clean Architecture <br>
 **Ecosystem:** Figma, Apple HIG, CI/CD, Linear, Git <br>
