@@ -44,7 +44,7 @@
 ### Where I've Been
 
 <details>
-  <summary>📱 <b>Sanoma</b> ｜ Junior iOS Developer <i></i></summary>
+  <summary> <b>Sanoma</b> ｜ Junior iOS Developer <i></i></summary>
   <br>
   <p>Worked on Finland's Top 3 media and weather applications (Helsingin Sanomat, Ilta-Sanomat, Supersää).</p>
   <ul>
